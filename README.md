@@ -1,13 +1,11 @@
-Breakout
-========
+# Breakout (for vibeOS)
+Fork of [jakesgordon/javascript-breakout](https://github.com/jakesgordon/javascript-breakout) for porting into vibeOS. This package uses Webview in vibeOS as it is a web application, but is run locally in vibeOS.
 
-Another HTML5 experiment to implement BREAKOUT in a `<canvas>`
+## Modified
+Certain files have been removed/modified so that they can be tailored to vibeOS.
 
- * You can find the [game here](http://codeincomplete.com/posts/2011/6/11/javascript_breakout/demo.html)
- * You can find out [how it works](http://codeincomplete.com/posts/2011/6/11/javascript_breakout/index.html)
-   * [Managing Game State](http://codeincomplete.com/posts/2011/6/12/game_state_in_breakout/)
-   * [Rendering Performance](http://codeincomplete.com/posts/2011/6/12/rendering_breakout/)
-   * [Collision Detection](http://codeincomplete.com/posts/2011/6/12/collision_detection_in_breakout/)
-   * [Gameplay Balance](http://codeincomplete.com/posts/2011/6/13/gameplay_in_breakout/)
-   * [Adding Sound](http://codeincomplete.com/posts/2011/6/16/adding_sound_to_breakout/)
-   * [Touch Events](http://codeincomplete.com/posts/2011/6/24/adding_touch_to_breakout/)
+## License
+This package includes the original License from the author, Jake Gordon, and does **not** use the vibeOS License. By using a vibeOS distributable with this package included OR by downloading & installing the package from vibeOS Package Manager or the GitHub Repository, you agree to the License included with this package. 
+
+## Thanks Jake Gordon
+Jake Gordon is the creator behind many of the classic games which have been ported to vibeOS. Plus, he's a fellow Portlander (+10 Kudos). Big Thanks from @ctaetcsh for your amazing work.
